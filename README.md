@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bryce-Garcia
+- 👀 I’m interested in parkour and pizza!
+- 🌱 I’m currently learning cloud computing concepts and relearning Python
